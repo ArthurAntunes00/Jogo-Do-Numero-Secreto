@@ -21,4 +21,4 @@ O objetivo é adivinhar o número secreto gerado aleatoriamente pelo programa.
 
 ---
 
-## 📂 Estrutura de Arquivos
+
